@@ -1,5 +1,2 @@
-*.o
-*.d
-*.crf
-
-MDK_ARM/SPI_OLED/
+MDK-ARM\SPI_OLED\
+MDK-ARM\.vscode\
