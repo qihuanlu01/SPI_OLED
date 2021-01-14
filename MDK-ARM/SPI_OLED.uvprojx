@@ -506,7 +506,7 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>Drivers\OLED</GroupName>
+          <GroupName>Drivers/OLED</GroupName>
           <Files>
             <File>
               <FileName>oled.c</FileName>
