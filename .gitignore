@@ -1,4 +1,5 @@
 *.o
-MDK_ARM/SPI_OLED/
 *.d
 *.crf
+
+MDK_ARM/SPI_OLED/
