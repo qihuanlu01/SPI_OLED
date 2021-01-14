@@ -1,0 +1,2 @@
+*.o
+/MDK_ARM/SPI_OLED/*
