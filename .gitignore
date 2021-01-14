@@ -1,2 +1,9 @@
 MDK-ARM\SPI_OLED\
 MDK-ARM\.vscode\
+*.d
+*.o
+*.crf
+*.dep
+*.map
+*.axf
+*.htm
